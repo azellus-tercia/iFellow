@@ -19,7 +19,7 @@ public class RandomArray {
     }
 
     public double maxValue() {
-        double maxValue = Double.MIN_VALUE; //Arrays.stream() is also a point.
+        double maxValue = Double.MIN_VALUE;
         for (double value : randomArray) {
             if (value > maxValue) {
                 maxValue = value;
