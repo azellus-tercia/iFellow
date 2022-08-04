@@ -1,3 +1,5 @@
+package Temp;
+
 public class RandomArray {
     private final double[] randomArray;
 

@@ -1,3 +1,5 @@
+package Temp;
+
 public class RepeatedSymbol {
 
     public String getRepeatedSymbol(String word) {
