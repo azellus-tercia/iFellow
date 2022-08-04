@@ -1,5 +1,3 @@
-package Temp;
-
 public class ClockPointers {
 
     /**
